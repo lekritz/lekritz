@@ -9,4 +9,5 @@ I'm a intermediate programmer that specialises in _Python_ development. I’m cu
 - Maths➗: Birth
 ## My GitHub statistics
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=lekritz)](https://github.com/anuraghazra/github-readme-stats)
+
 [![](https://github-readme-stats.vercel.app/api?username=lekritz)](https://github.com/anuraghazra/github-readme-stats)
